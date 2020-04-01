@@ -1,2 +1,2 @@
-# hellow-world
-This is my first try
+# 计算卡诺图以及真值表
+
